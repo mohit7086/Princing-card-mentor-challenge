@@ -117,3 +117,9 @@ ul{
   opacity:0.8;
   margin: 25px 0;
 }
+@media (max-width:650px){
+  #left,#right,#card{
+    width:100%;
+    height:auto;
+  }
+}
